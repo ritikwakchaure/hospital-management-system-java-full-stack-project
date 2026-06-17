@@ -1,0 +1,25 @@
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# Build directories
+/target/
+/bin/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+dependency-reduced-pom.xml
