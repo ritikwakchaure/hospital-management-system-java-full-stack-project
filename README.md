@@ -4,7 +4,6 @@ Enterprise-grade role-based hospital management system for streamlined clinical,
 
 ---
 
-dfgsdfg
 
 ## 📌 Problem Statement
 
@@ -343,9 +342,9 @@ Educational and portfolio demonstration project.
 Java Full Stack Developer  
 Specialized in scalable backend systems, RESTful API architecture, Spring ecosystem, and production-grade application design.
 
-📧 Email: suryateja36200@gmail.com  
+📧 Email:  rutikwakchaure805@gmail.com 
 🌍 Location: India  
-🔗 GitHub: https://github.com/Surya63023
+🔗 GitHub: https://github.com/ritikwakchaure
 
 ### ⭐ If you found this project useful, consider giving it a star.
 
